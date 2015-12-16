@@ -46,7 +46,7 @@ CodeAcademy :  Badges HTML
                     </tr>
                 </table>
         </main>
-        <footer>35000 RENNES - sdy.briand@icloud.com</footer>
+        <footer>Pour me contacter : sdy.briand@icloud.com</footer>
     </body>
 </html>
 
