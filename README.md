@@ -1,8 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
 # Semaine2
-CodeAcademy :  Badges HTML 
-<body>
-    <img src ="https://camo.githubusercontent.com/683f48e9250c1dd1a83cd6607e099ac91153185a/687474703a2f2f7777772e6d6f6f636c61622e636c75622f6174746163686d656e74732f6c6f676f5f636f6465636164656d792d706e672e38332f">
-    <h1> Grâce au 
+CodeAcademy :  Badges HTML
+        </title>
+    </head>
+    <body>
+        <header> 
+            <h1 style = "color: grey">Sandy Briand </h1>
+            <h2> Je recherche un poste en tant que développeur web </h2>
+        </header>
+        <main>
+            <ul><h3>Formation</h3>
+                <li>2015 : Formation Simplonline via internet
+                <p> Grâce au 
          <a href= "https://www.codecademy.com/users/sandytheB/achievements"; style= "background-color:pink">CodeAcademy</a>
          j'ai obtenu des badges qui certifient mon niveau sur l'utilisation du langage HTML. Effectivement, je sais comment:
             <ul>
@@ -12,8 +24,29 @@ CodeAcademy :  Badges HTML
                 <li>créer des liens hypertextes</li>
                 <li>ajouter des images par des balises auto-fermantes</li>
             </ul>
-     </h1>
-    <h1> Vous trouverez <a href= "https://www.codecademy.com/users/sandytheB/achievements">ici</a> mes badges !</h1>
-   
-         
-</body>
+     </p>
+    <h1> Vous trouverez  mes badges<a href= "https://www.codecademy.com/users/sandytheB/achievements"> ici </a>!</h1>
+                </li>
+                <li>2014 : Licence AES OPTION Management des Oragnisations / Université RENNES 2 (35)</li>
+                <li>2009 : BTS AST Anglais - Allemand / Lycée ND La Victoire - DINAN (22)</li>
+                <li>2007 : BAC L / Lycée Henri Avril - LAMBALLE (22)</li>
+            </ul><h3>Expériencces Professionnelles</h3>
+                <table border = "0px">
+                    <tr>
+                        <td>Avril 2012 - Mai 2015</td>
+                        <td>Opératrice de saisie</td>
+                        <td>DOCAPOST</td>
+                        <td>RENNES 35</td>
+                    </tr>
+                    <tr>
+                        <td>Mai 2011 - Nov. 2015</td>
+                        <td>Vendeuse</td>
+                        <td>Biscuiterie</td>
+                        <td>ERQUY 22</td>
+                    </tr>
+        </main>
+        <footer>35000 RENNES - sdy.briand@icloud.com </footer>
+    </body>
+</html>
+
+
