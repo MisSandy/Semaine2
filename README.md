@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>
-# Semaine2
-CodeAcademy :  Badges HTML
-        </title>
+        <title># Semaine2 CodeAcademy :  Badges HTML</title>
     </head>
     <body>
         <header> 
