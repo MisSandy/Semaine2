@@ -24,8 +24,8 @@ CodeAcademy :  Badges HTML
                 <li>créer des liens hypertextes</li>
                 <li>ajouter des images par des balises auto-fermantes</li>
             </ul>
-     </p>
-    <h3> Vous trouverez  mes badges<a href= "https://www.codecademy.com/users/sandytheB/achievements"> ici </a>!</h3>
+        </p>
+         <h3> Vous trouverez  mes badges<a href= "https://www.codecademy.com/users/sandytheB/achievements"> ici </a>!</h3>
                 </li>
                 <li>2014 : Licence AES OPTION Management des Oragnisations / Université RENNES 2 (35)</li>
                 <li>2009 : BTS AST Anglais - Allemand / Lycée ND La Victoire - DINAN (22)</li>
@@ -45,9 +45,8 @@ CodeAcademy :  Badges HTML
                         <td>ERQUY 22</td>
                     </tr>
                 </table>
-            <p>35000 RENNES - sdy.briand@icloud.com</p>
         </main>
-        
+        <footer>35000 RENNES - sdy.briand@icloud.com</footer>
     </body>
 </html>
 
