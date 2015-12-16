@@ -44,8 +44,9 @@ CodeAcademy :  Badges HTML
                         <td>Biscuiterie</td>
                         <td>ERQUY 22</td>
                     </tr>
+            <p>35000 RENNES - sdy.briand@icloud.com</p>
         </main>
-        <footer>35000 RENNES - sdy.briand@icloud.com </footer>
+        
     </body>
 </html>
 
